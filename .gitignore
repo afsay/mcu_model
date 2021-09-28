@@ -1,0 +1,9 @@
+*.o
+*.su
+*.d
+*.elf
+*.axf
+*.bin
+*.swd
+*.map
+*.gdb_history
